@@ -2,7 +2,7 @@
 
 🧪 Quality Engineer focused on QA automation, API testing, mobile testing, and accessibility testing  
 💻 Former Quality Engineer @ National Australia Bank  
-📍 Toronto, Ontario, Canada  
+📍 Waterloo, Ontario, Canada  
 
 ---
 
